@@ -1,0 +1,515 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap');
+.one {
+    
+    width: 100%;
+    height: 680px;
+    background-image:  url("../insurance-images/hero-cover.png");
+    background-size: cover;
+ 
+    }
+    
+  .br {
+    margin-top: 9px;
+    margin-right: 60px;
+    font-size: 20px;
+  }  
+  .md {
+    color: rgba(0, 0, 0, 0.589);
+    line-height: 7px;
+  }
+.overlay {
+    background-color:  rgba(37, 43, 66, 0.555);
+    height: 680px;
+    width: 100%;
+}
+.fa-solid fa-id-badge{
+    width: 40px;
+    height: 20px;
+    justify-content: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 350px;
+    overflow: hidden;
+    background-color: none;
+    font-size: 15px;
+    font-weight: 300;
+    font-display: swap;
+    font-family: Montserrat;
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: #111;
+  }
+  .run {
+  padding-left:20px;
+  margin-left: 180px;
+  }
+  .mem{
+    color: white;
+    background-color: #23A6F0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 3px;
+  }
+.textone{
+ text-align: center;
+ 
+}
+.we {
+    color: white;
+    font-size: 40px;
+    line-height: 10px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-display: swap;
+    font-style: normal;
+ 
+}
+.topnav {
+    justify-content: center;
+    margin-left: -75px;
+    padding-top: 25px;
+}
+.blue {
+    background-color: #23A6F0;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Montserrat;
+}
+.trans {
+    padding-right: 30px;
+    padding-left:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 15px; 
+    border: solid white 1px;
+    font-family: Montserrat;
+}
+.know {
+    color: white;
+    display:flexbox;
+    font-family: Montserrat;
+}
+.peace {
+    background-color: white;
+    width: 250px;
+    height: 180px;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 10px;
+    margin-top: -50px;
+}
+.set{
+    background-color: white;
+    width: 250px;
+    height: 180px;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 10px;
+    margin-top: -50px;
+}
+.sati {
+    background-color: #23A6F0;
+    width: 250px;
+    height: 180px;
+    text-align: left;
+    padding-left: 20px;
+    color: white; 
+    line-height: 8px;
+    margin-top: -50px;
+}
+
+.two {
+   background-color: #FAFAFA;
+   display: flex; 
+   justify-content: center;
+   gap: 30px;
+   margin-top: 0px;
+   height: 200px;
+   font-family: Montserrat;
+   
+}
+.th{
+    background-color:white;
+    display: flex; 
+    justify-content: center;
+    gap: 45px;
+    margin-top: 30px;
+    height: 200px;
+    text-align: center;
+    font-family: Montserrat;
+}
+.fourr{
+    text-align: center;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    line-height: 10px;
+    font-family: Montserrat;
+}
+.month {
+    text-align: left;
+}
+.subscribe {
+    margin-left: -72px;
+    background-color: #23A6F0;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    font-family: Montserrat;
+}
+.a {
+    background-color: white;
+    width: 280px;
+    text-align: center;
+    padding: 10px;
+    line-height: 10px;
+    border: solid 1px;
+}
+
+.b {
+    background-color: white;
+    width: 280px;
+    text-align: center;
+    padding: 10px;
+    line-height: 10px;
+    border: solid 1px;
+}
+.c{
+    background-color: white;
+    width: 280px;
+    text-align: center;
+    padding: 10px;
+    line-height: 10px;
+    border: solid 1px;
+}
+.solid {
+    padding-top: 10px;
+}
+.fivee {
+    justify-content: center;
+    display: flex;
+    gap: 28px;
+    line-height: 10px;
+    margin-bottom: 100px;
+    font-family: Montserrat;
+   }
+.siix{
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    padding-top: 10px;
+}
+.sn {
+    display: flex;
+}
+.yellow {
+    width: 340px;
+    margin-right: 0px;
+    border: none;
+    border-radius: 3px;
+}
+.sevenn {
+  margin-left: 180px;
+  margin-top: 25px;
+  background: linear-gradient(to right, #074588 0%, #D21589 100%);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 160px;
+  padding-right: 20px; 
+  width: 800px;
+  justify-content: center;
+  align-items: center; 
+  font-family: Montserrat;
+}
+.la{
+     color: white;
+     padding-right: 38px;
+
+}
+.eeight{
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    line-height: 10px;
+    font-family: Montserrat;
+}
+.free {
+    border:solid 1px #23A6F0 ;
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    height: 520px;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-family: Montserrat;
+}
+.mon {
+    font-size: 10px;
+    margin-top: -36px;
+}
+.zee {
+    color:#23A6F0;
+    margin-top: -10px;
+}
+.check {
+    margin-left: -57px;
+    font-size: 30px;
+}
+.z {
+   display: flex; 
+
+}
+.x {
+    display: flex; 
+    
+}
+ .l {
+    display: flex; 
+}
+ .v {
+    display: flex; 
+}
+ .n {
+    display: flex; 
+}
+.ninne {
+    display: flex;
+    justify-content: center;
+}
+.comb {
+    margin-bottom: -5px;
+}
+.std {
+ text-align: center;
+ background-color: #252B42;
+ color: white;
+ width: 250px;
+ height: 550px;
+ margin-top: 20px;
+ border-radius: 5px;
+ font-family: Montserrat;
+ 
+}
+.btn {
+   background-color: #23A6F0; 
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   text-decoration: none;
+   color: white;
+   border-radius: 3px;
+   border-radius: 4px;
+}
+.p {
+    font-size: 15px; 
+    color: #30292ec4;
+
+}
+.org {
+    color: rgba(255, 255, 255, 0.582);
+    font-size: 15px; 
+    line-height: 6px;
+    padding-bottom: 12px;
+}
+.have{
+    color:rgba(255, 255, 255, 0.582);
+}
+.all {
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+   height: 500px;
+   padding-top: 40px;
+
+   
+}
+.world {
+    color: white;
+    line-height: 8px;
+    font-family: Montserrat;
+}
+.grad {
+    color: rgba(255, 255, 255, 0.689); 
+    padding-top: 8px;
+}
+   .al {
+    text-align: left;
+    border: none;
+   } 
+.tn {
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: #23A6F0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: white;
+} 
+.ztn {
+    background-color: #23A6F0;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: white;
+    margin-left: 135px;
+}
+.in {
+    background-color: white;
+    justify-content: center;
+    width: 345px;
+    padding-left: 30px;
+    font-family: Montserrat;
+
+}
+.pink {
+    background-color: #F9F9F9;
+    border: none;
+    width: 300px;
+    height: 33px;
+    font-family: Montserrat;
+}
+.max {
+    display: flex;
+    justify-content: center;
+    margin-top: -200px;
+}
+.core {
+    display: flex;
+    margin-top: 110px;
+    gap: 300px;
+    
+}
+.book {
+    line-height: 1px;
+    margin-left: 180px;
+    font-family: Montserrat;
+}
+.foot{
+    display: flex;
+    margin-left: 0px;
+    gap: 60px;
+    margin-top: 60px;
+   justify-content: center;
+   font-family: Montserrat;
+}
+.bus {
+    color: rgba(0, 0, 0, 0.527);
+}
+.pro {
+    
+
+    text-decoration: none;
+}
+.home{
+    text-decoration: none;
+}
+.so {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.list{
+    list-style: none;
+}
+.pricing1 {
+    background-color: white;
+    font-family: montserrat;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 1.5px aqua;
+    border-radius: 4px;
+}
+.pricing2{
+    background-color: #252B42;
+    font-family: montserrat;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 1.5px aqua;
+    border-radius: 4px;
+    color: white;
+    margin-top: -40px;
+    height: 485px;
+}
+.pricing3{
+    background-color: white;
+    font-family: montserrat;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 1.5px aqua;
+    border-radius: 4px;
+}
+  .try{
+    background-color: #23A6F0;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+  } 
+  .hp {
+    text-align: center;
+  }
+  .size {
+    font-size: 40px;
+    font-weight: 700;
+    color: #23A6F0;
+  }
+  .box-text1 {
+    font-weight: 700;
+    font-size: 25px;
+  }
+  .box-text2 {
+    font-size: 12px;
+  }
+  .ee {
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 25px;
+  }
